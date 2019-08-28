@@ -1,0 +1,19 @@
+{
+  "name": "trial",
+  "version": "1.0.0",
+  "description": "Hi this me",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiran-g-owd-a/Trial.git"
+  },
+  "author": "Kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiran-g-owd-a/Trial/issues"
+  },
+  "homepage": "https://github.com/Kiran-g-owd-a/Trial#readme"
+}
